@@ -9,8 +9,8 @@ Adopted from https://github.com/hashirshoaeb/home; but only in HTML and CSS.
 ## How to use?
 
 - Fork this repository
-- Save your changes in `/gh-pages/index.html`
-- Go to `Settings -> Pages` and select folder `/gh-pages` and save
+- Save your changes in `/docs/index.html`
+- Go to `Settings -> Pages`, select branch `main`, select folder `/docs`, and save. Checkmark `Enforce HTTPS`.
 - Wait for 10 seconds, and your site is ready at `USERNAME.github.io/v0.1/`
 
 ## Special Thanks
